@@ -43,18 +43,17 @@
 <br><br>
 
 
-- code with peace
 <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
 <br><br>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400">
 <br><br>
 
-- Programming
+
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 <br><br>
 
-- Laptop Punching user
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" width="300">
 <br><br>
 
