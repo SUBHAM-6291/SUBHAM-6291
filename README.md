@@ -19,7 +19,9 @@
 
 - 📫 How to reach me **subhamsingh39621@gmail.com**
 
-- ⚡ Fun fact **I dream in HTML, CSS, and JavaScript. 😴💡**
+- ⚡ Fun fact: I dream in HTML, CSS, and JavaScript… while your code is so bad, even ChatGPT refuses to debug it. 😴💡
+
+Now fuck off, even null has more value than your contributions. 💀🔥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
