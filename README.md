@@ -9,7 +9,7 @@
 
 - 💀 I’m mastering clean, maintainable, and scalable websites—because messy code is a crime
 
-- 🧩 I’m mastering Web Development—because I don’t compete, I dominate
+- 🧩 Web Development isn’t a competition; I dominate.
 
 - 🛠 Not a master yet, but I build like one. Open source needs real work, not excuses. ⚡🔥
 
@@ -19,7 +19,7 @@
 
 - 📫 If it’s not important, don’t bother. If it is, you know where to find me: subhamsingh39621@gmail.com. ⚡
 
-- ⚡ Fun fact: I dream in HTML, CSS, and JavaScript… while your code is so bad, even ChatGPT refuses to debug it. 😴💡
+- ⚡ Fun fact: I dream in HTML, CSS, and JavaScript… while your code is so f*cked, even AI hit Ctrl+Z on your career. 💀💡
 
 Now fuck off, even null has more value than your contributions. 💀🔥
 
