@@ -11,13 +11,13 @@
 
 - 🧩 I’m mastering Web Development—because I don’t compete, I dominate
 
-- 👯 I’m looking to collaborate on **open-source projects that challenge the boundaries of frontend development. 🚀🌐**
+- 🛠 Not a master yet, but I build like one. Open source needs real work, not excuses. ⚡🔥
 
-- 🤝 I’m looking for help with **I’m passionate about contributing to open-source projects that make a real difference. 🌍💻**
+- Looking to contribute? Cool. Looking to waste time? Nope. Let’s build something that matters. 🚀💻
 
-- 💬 Ask me about **Ask me about how I’ve found my soulmate in Web Dev. 💘⚡**
+- 💬 Ask me how Web Dev gives me stability while others deal with love crashes. 💘⚡
 
-- 📫 How to reach me **subhamsingh39621@gmail.com**
+- 📫 If it’s not important, don’t bother. If it is, you know where to find me: subhamsingh39621@gmail.com. ⚡
 
 - ⚡ Fun fact: I dream in HTML, CSS, and JavaScript… while your code is so bad, even ChatGPT refuses to debug it. 😴💡
 
