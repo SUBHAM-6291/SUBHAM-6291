@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/subham78910" target="blank"><img src="https://img.shields.io/twitter/follow/subham78910?logo=twitter&style=for-the-badge" alt="subham78910" /></a> </p>
 
-- 🔭 I’m currently working on **I’m learning how to write clean, maintainable, and scalable JavaScript. 📚🔧**
+- 💀 I’m mastering clean, maintainable, and scalable websites—because messy code is a crime
 
 - 🌱 I’m currently learning **Backend Development**
 
