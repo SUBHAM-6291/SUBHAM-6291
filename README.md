@@ -9,7 +9,7 @@
 
 - 💀 I’m mastering clean, maintainable, and scalable websites—because messy code is a crime
 
-- 🌱 I’m currently learning **Backend Development**
+- 🧩 I’m mastering Backend Development—because I don’t compete, I dominate
 
 - 👯 I’m looking to collaborate on **open-source projects that challenge the boundaries of frontend development. 🚀🌐**
 
