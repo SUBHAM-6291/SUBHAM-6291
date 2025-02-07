@@ -92,3 +92,52 @@ Now fuck off, even null has more value than your contributions. 💀🔥
 <br><br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+# 💰 Oh, You Love Free Stuff? Then Pay Up, Broke Dev 💀  
+
+So you **Googled a problem**, landed here, and now you’re about to **steal my code for free?** 😏<br>  
+No "thank you," no donation—just **snatch the code and run like a thief in the night?** **Sad.** 😂<br><br>  
+
+I see you, flexing your "projects" on LinkedIn like you built this from scratch.<br>  
+**Be real.** Without this repo, your code is just **a broken mess of Stack Overflow errors.** 💀<br><br>  
+
+But hey, maybe you’re different. Maybe you actually **respect good work** and won’t act broke.<br>  
+So here’s your chance to **prove it:** 👇<br><br>  
+
+---
+
+## 📲 UPI Donations (Google Pay, PhonePe, Paytm)  
+📌 **UPI ID:** `subhamsingh39621-1@okhdfcbank`<br>  
+
+[![Donate via UPI](https://img.shields.io/badge/Donate-UPI-blue?style=for-the-badge&logo=google-pay)](upi://pay?pa=subhamsingh39621-1@okhdfcbank&pn=Subham%20Singh)<br><br>  
+
+## 🌍 PayPal (For My International Freeloaders)  
+📌 **PayPal ID:** `@subhamsingh615`<br>  
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.me/subhamsingh615)<br><br>  
+
+---
+
+## 🤡 Why Donate?  
+
+✔ Because **you’re using my brainpower, not yours.** 💀<br>  
+✔ Because **I solved the problem while you just Googled it.** 😏<br>  
+✔ Because **without this, you’d still be crying over syntax errors.** 😂<br><br>  
+
+Still not donating? That’s cool.<br>  
+But when your code **breaks at 2 AM, don’t act surprised.** 💀🔥  
+
+---
+
+
