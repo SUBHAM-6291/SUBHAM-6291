@@ -5,7 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham-6291&label=Profile%20views&color=0e75b6&style=flat" alt="subham-6291" /> </p>
 
-<p align="left"> <a href="https://twitter.com/subham78910" target="blank"><img src="https://img.shields.io/twitter/follow/subham78910?logo=twitter&style=for-the-badge" alt="subham78910" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/subham78910" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="subham78910 on X" />
+  </a>
+</p>
+
 
 - 💀 I’m mastering clean, maintainable, and scalable websites—because messy code is a crime
 
