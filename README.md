@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">Dream Big, Code Bigger 🚀💻</h3>
-<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/eYvrQb8XOBhSE0UXGa/giphy.webp?cid=ecf05e47d99kz7l1mlwg4g0iks5ljmxwolr2mh8kc69no1pw&ep=v1_gifs_related&rid=giphy.webp&ct=g">
+<img align="right" alt="Coding" width="450" src="https://media4.giphy.com/media/eYvrQb8XOBhSE0UXGa/giphy.webp?cid=ecf05e47d99kz7l1mlwg4g0iks5ljmxwolr2mh8kc69no1pw&ep=v1_gifs_related&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham-6291&label=Profile%20views&color=0e75b6&style=flat" alt="subham-6291" /> </p>
 
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## 💫 About Me  
+ 💫 About Me  
 
 🔭 **I’m currently working on:**  
 A **Full Stack  Projects** to enhance my skills and grow as a better web developer.  
@@ -26,9 +26,7 @@ Mastering **React** and deep-diving into **backend development**.
 **HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, MongoDB, Express.js.**  
 
 ⚡ **Fun fact:**  
-I work **8-12 hours daily** to level up my dev skills! 🚀 
-
-
+I work **8-12 hours daily** to level up my dev skills! 🚀   make this image perfectly fit 
 
 
 
