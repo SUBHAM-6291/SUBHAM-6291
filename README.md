@@ -26,7 +26,7 @@ Mastering **React** and deep-diving into **backend development**.
 **HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, MongoDB, Express.js.**  
 
 ⚡ **Fun fact:**  
-I work **8-12 hours daily** to level up my dev skills! 🚀   make this image perfectly fit 
+I work **8-12 hours daily** to level up my dev skills! 🚀  
 
 
 
