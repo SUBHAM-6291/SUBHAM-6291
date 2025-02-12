@@ -14,10 +14,10 @@
 ## 💫 About Me  
 
 🔭 **I’m currently working on:**  
-A **Full Stack Big Project** to sharpen my skills and become a better web developer.  
+A **Full Stack  Projects** to enhance my skills and grow as a better web developer.  
 
 👯 **I’m looking to collaborate on:**  
-Full Stack **MERN** projects & innovative web applications.  
+ ** A Full Stack MERN** projects  
 
 🌱 **I’m currently learning:**  
 Mastering **React** and deep-diving into **backend development**.  
@@ -26,7 +26,8 @@ Mastering **React** and deep-diving into **backend development**.
 **HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, MongoDB, Express.js.**  
 
 ⚡ **Fun fact:**  
-I spend **8-12 hours a day** honing my craft, pushing boundaries, and leveling up my dev skills! 🚀  
+I work **8-12 hours daily** to level up my dev skills! 🚀 
+
 
 
 
