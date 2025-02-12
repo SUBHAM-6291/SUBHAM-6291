@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">Dream Big, Code Bigger 🚀💻</h3>
-<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/eYvrQb8XOBhSE0UXGa/giphy.webp?cid=ecf05e47d99kz7l1mlwg4g0iks5ljmxwolr2mh8kc69no1pw&ep=v1_gifs_related&rid=giphy.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/eYvrQb8XOBhSE0UXGa/giphy.webp?cid=ecf05e47d99kz7l1mlwg4g0iks5ljmxwolr2mh8kc69no1pw&ep=v1_gifs_related&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham-6291&label=Profile%20views&color=0e75b6&style=flat" alt="subham-6291" /> </p>
 
@@ -11,22 +11,25 @@
   </a>
 </p>
 
+## 💫 About Me  
 
-- 💀 I’m mastering clean, maintainable, and scalable websites—because messy code is a crime
+🔭 **I’m currently working on:**  
+A **Full Stack Big Project** to sharpen my skills and become a better web developer.  
 
-- 🧩 Web Development isn’t a competition; I dominate.
+👯 **I’m looking to collaborate on:**  
+Full Stack **MERN** projects & innovative web applications.  
 
-- 🛠 Not a master yet, but I build like one. Open source needs real work, not excuses. ⚡🔥
+🌱 **I’m currently learning:**  
+Mastering **React** and deep-diving into **backend development**.  
 
-- Looking to contribute? Cool. Looking to waste time? Nope. Let’s build something that matters. 🚀💻
+💬 **Ask me about:**  
+**HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, MongoDB, Express.js.**  
 
-- 💬 Ask me how Web Dev gives me stability while others deal with love crashes. 💘⚡
+⚡ **Fun fact:**  
+I spend **8-12 hours a day** honing my craft, pushing boundaries, and leveling up my dev skills! 🚀  
 
-- 📫 If it’s not important, don’t bother. If it is, you know where to find me: subhamsingh39621@gmail.com. ⚡
 
-- ⚡ Fun fact: I dream in HTML, CSS, and JavaScript… while your code is so f*cked, even AI hit Ctrl+Z on your career. 💀💡
 
-Now fuck off, even null has more value than your contributions. 💀🔥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
