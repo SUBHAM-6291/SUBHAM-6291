@@ -17,7 +17,7 @@
 A **Full Stack  Projects** to enhance my skills and grow as a better web developer.  
 
 👯 **I’m looking to collaborate on:**  
- ** A Full Stack MERN** projects  
+  A Full Stack MERN projects  
 
 🌱 **I’m currently learning:**  
 Mastering **React** and deep-diving into **backend development**.  
