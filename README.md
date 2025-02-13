@@ -3,30 +3,32 @@
 <h3 align="center">Dream Big, Code Bigger 🚀💻</h3>
 
 
-<table width="100%">
-  <tr>
-    <td width="60%">
-      <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=subham-6291&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-      </p>
-      <p align="left">
-        <a href="https://twitter.com/subham78910" target="_blank">
-          <img src="https://img.shields.io/badge/Follow%20me%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-        </a>
-      </p>
-      <ul>
-        <li>🔭 <strong>I’m currently working on:</strong> A <strong>Full Stack Project</strong> to enhance my skills and grow as a better web developer.</li>
-        <li>👯 <strong>I’m looking to collaborate on:</strong> A Full Stack <strong>MERN</strong> project.</li>
-        <li>🌱 <strong>I’m currently learning:</strong> Mastering <strong>React</strong> and deep-diving into <strong>backend development</strong>.</li>
-        <li>💬 <strong>Ask me about:</strong> <strong>HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, MongoDB, Express.js.</strong></li>
-        <li>⚡ <strong>Fun fact:</strong> I work <strong>8-12 hours daily</strong> to level up my dev skills! 🚀</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media4.giphy.com/media/eYvrQb8XOBhSE0UXGa/giphy.webp?cid=ecf05e47d99kz7l1mlwg4g0iks5ljmxwolr2mh8kc69no1pw&ep=v1_gifs_related&rid=giphy.webp&ct=g" alt="Coding" width="100%">
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="450" src="https://media4.giphy.com/media/eYvrQb8XOBhSE0UXGa/giphy.webp?cid=ecf05e47d99kz7l1mlwg4g0iks5ljmxwolr2mh8kc69no1pw&ep=v1_gifs_related&rid=giphy.webp&ct=g">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subham-6291&label=Profile%20views&color=0e75b6&style=flat" alt="subham-6291" /> </p>
+
+<p align="left">
+  <a href="https://twitter.com/subham78910" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="subham78910 on X" />
+  </a>
+</p>
+
+ 💫 About Me  
+
+🔭 **I’m currently working on:**  
+A **Full Stack  Projects** to enhance my skills and grow as a better web developer.  
+
+👯 **I’m looking to collaborate on:**  
+  A Full Stack MERN projects  
+
+🌱 **I’m currently learning:**  
+Mastering **React** and deep-diving into **backend development**.  
+
+💬 **Ask me about:**  
+**HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, Node.js, MongoDB, Express.js.**  
+
+⚡ **Fun fact:**  
+I work **8-12 hours daily** to level up my dev skills! 🚀
 
 
 
